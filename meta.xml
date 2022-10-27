@@ -1,0 +1,5 @@
+<meta>
+	<info author="MyServer" type="gamemode" name="resources" version="0.1.0" />
+	<script src="script.lua" type="server" />
+	<script src="client.lua" type="client" />
+</meta>
